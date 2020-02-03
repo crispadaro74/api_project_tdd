@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiHudl", ".\WebApplicationHudl\WebApiHudl.csproj", "{0EAB33E2-0133-4E4A-9F38-1D91BAB09F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestWebApiHudl", ".\XUnitTestWebApiHudl\XUnitTestWebApiHudl.csproj", "{128455A4-29D8-4442-85B9-DDDAEB4B05EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EAB33E2-0133-4E4A-9F38-1D91BAB09F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAB33E2-0133-4E4A-9F38-1D91BAB09F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAB33E2-0133-4E4A-9F38-1D91BAB09F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAB33E2-0133-4E4A-9F38-1D91BAB09F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128455A4-29D8-4442-85B9-DDDAEB4B05EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128455A4-29D8-4442-85B9-DDDAEB4B05EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128455A4-29D8-4442-85B9-DDDAEB4B05EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128455A4-29D8-4442-85B9-DDDAEB4B05EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8182B5D9-F9B1-4528-89D9-E64B4B6524BD}
+	EndGlobalSection
+EndGlobal
